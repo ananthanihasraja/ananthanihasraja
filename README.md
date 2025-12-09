@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=Anantha%20Nihas%20Raja&desc=Computer%20science%20and%20business%20system%20||%20B.Tech&fontAlign=50&fontAlignY=45&fontColor=000000" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=Anantha%20Nihas%20Raja&desc=Computer%20science%20and%20business%20system%20||%20B.Tech&fontAlign=50&fontAlignY=45&fontColor=000000" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
