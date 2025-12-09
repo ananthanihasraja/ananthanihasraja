@@ -73,15 +73,14 @@ Driven by curiosity, consistency, and a passion for modern development.
   </tr>
 
   <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
-    <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
+    <td><b> </b><br><i> </i></td>
+    <td></td>
     </td>
     <td>
       React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
+      🔗 <a href="" target="_blank">View →</a>
     </td>
   </tr>
 </table>
@@ -93,7 +92,7 @@ Driven by curiosity, consistency, and a passion for modern development.
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | 
+| **LeetCode** | 5+ |       |
 | **CodeChef** | 548 | 1067 |
 | **CodeForces** | 136 | 969 |
 
