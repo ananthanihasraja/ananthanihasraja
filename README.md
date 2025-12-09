@@ -16,9 +16,9 @@
 
 <div align="center">
 
- **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
- Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
-
+Aspiring Full-Stack Developer skilled in C, C++, Java, JavaScript, HTML, CSS, and MySQL.
+Focused on building clean, responsive web applications and strengthening problem-solving through continuous learning and hands-on projects.
+Driven by curiosity, consistency, and a passion for modern development.
 </div>  
 
 
@@ -132,15 +132,12 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
+| **LeetCode** | 300+ | 
+| **CodeChef** | 548 | 1067 |
 | **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
 
 ###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
-
+- **2st Place** - Code Verse (Symposium)
 ---
 
 ##  GitHub Analytics
@@ -173,16 +170,6 @@
 </picture>
 
 </div>  
-
----
-
-##  GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sabariyuhendh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
